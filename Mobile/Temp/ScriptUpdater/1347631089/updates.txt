@@ -1,0 +1,2 @@
+Temp/ScriptUpdater/1347631089/1862545191_UIImageButtonInspector.cs => Assets/NGUI/Scripts/Editor/UIImageButtonInspector.cs
+Temp/ScriptUpdater/1347631089/1824405351_UITexturePacker.cs => Assets/NGUI/Scripts/Editor/UITexturePacker.cs

@@ -54,8 +54,13 @@ static public class NGUITools
 	{
 		get
 		{
+			// 5.4이상 버전 : WindowsWebPlayer, OSXWebPlayer 지원 중단 
+			return Application.platform != RuntimePlatform.WebGLPlayer;
+			
+			/*
 			return Application.platform != RuntimePlatform.WindowsWebPlayer &&
 				Application.platform != RuntimePlatform.OSXWebPlayer;
+			*/
 		}
 	}
 
