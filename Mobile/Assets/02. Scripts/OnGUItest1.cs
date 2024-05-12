@@ -17,4 +17,4 @@ public class OnGUItest1 : MonoBehaviour
             Debug.Log("click2!");
         }
     }
-}ㅂㅓ
+}

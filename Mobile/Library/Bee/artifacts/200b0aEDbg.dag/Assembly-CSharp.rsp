@@ -354,6 +354,7 @@
 -analyzer:"/Volumes/Seagate/Unity/2022.3.12f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Volumes/Seagate/Unity/2022.3.12f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/02. Scripts/OnGUItest1.cs"
+"Assets/02. Scripts/OnGUItest2.cs"
 "Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipItems.cs"
 "Assets/NGUI/Examples/Scripts/InventorySystem/Game/EquipRandomItem.cs"
 "Assets/NGUI/Examples/Scripts/InventorySystem/Game/UICursor.cs"
