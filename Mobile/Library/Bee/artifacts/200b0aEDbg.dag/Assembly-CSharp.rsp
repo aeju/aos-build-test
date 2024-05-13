@@ -484,6 +484,7 @@
 "Assets/NGUI/Scripts/UI/UITiledSprite.cs"
 "Assets/NGUI/Scripts/UI/UITooltip.cs"
 "Assets/NGUI/Scripts/UI/UIViewport.cs"
+"Assets/Scripts/UnityPurchasing/generated/GooglePlayTangle.cs"
 -langversion:9.0
 
 /deterministic
